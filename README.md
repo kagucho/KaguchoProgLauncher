@@ -1,0 +1,2 @@
+# KaguchoProgLauncher
+かぐちょProg部理大祭用ランチャー
